@@ -1,0 +1,237 @@
+{
+  "navbar": [
+    {
+      "name": "Home",
+      "link": "/"
+    },
+    {
+      "name": "Services",
+      "link": "#",
+      "icon": "ic:baseline-arrow-drop-down",
+      "childrens": [
+        {
+          "name": "Web Designing & Development",
+          "link": "/services/web-designing-and-development",
+          "icon": "ic:baseline-arrow-drop-down",
+          "childrens": [
+            {
+              "name": "WordPress Development",
+              "link": "/services/web-designing-and-development/wordpress-development"
+            },
+            {
+              "name": "Custom web development",
+              "link": "/services/web-designing-and-development/custom-web-development"
+            },
+            {
+              "name": "WooCommerce",
+              "link": "/services/web-designing-and-development/woocommerce"
+            },
+            {
+              "name": "Shopify Development",
+              "link": "/services/web-designing-and-development/shopify-development"
+            },
+            {
+              "name": "PHP Development",
+              "link": "/services/web-designing-and-development/php-development"
+            },
+            {
+              "name": "Laravel Development",
+              "link": "/services/web-designing-and-development/laravel-development"
+            }
+          ]
+        },
+        {
+          "name": "Search Engine Optimization (SEO)",
+          "link": "/services/search-engine-optimization",
+          "icon": "ic:baseline-arrow-drop-down",
+          "childrens": [
+            {
+              "name": "Technical SEO Analysis",
+              "link": "/services/search-engine-optimization/technical-seo-analysis"
+            },
+            {
+              "name": "Online Reputation Management",
+              "link": "/services/search-engine-optimization/online-reputation-management"
+            },
+            {
+              "name": "Competitor Backlink Outreach",
+              "link": "/services/search-engine-optimization/competitor-backlink-outreach"
+            },
+            {
+              "name": "Guest Post Outreach",
+              "link": "/services/search-engine-optimization/guest-post-outreach"
+            },
+            {
+              "name": "On-Page and Off-Page Optimization",
+              "link": "/services/search-engine-optimization/on-page-and-off-page-optimization"
+            },
+            {
+              "name": "Local SEO (GBP)",
+              "link": "/services/search-engine-optimization/local-seo"
+            }
+          ]
+        },
+        {
+          "name": "Paid Media & Advertising (PPC)",
+          "link": "/services/paid-media-and-advertising",
+          "icon": "ic:baseline-arrow-drop-down",
+          "childrens": [
+            {
+              "name": "AdWords Audit",
+              "link": "/services/paid-media-and-advertising"
+            },
+            {
+              "name": "Keyword Research",
+              "link": "/services/paid-media-and-advertising"
+            },
+            {
+              "name": "Campaign Optimization",
+              "link": "/services/paid-media-and-advertising"
+            },
+            {
+              "name": "PPC Bid Management",
+              "link": "/services/paid-media-and-advertising"
+            },
+            {
+              "name": "Customized Ad Extensions",
+              "link": "/services/paid-media-and-advertising"
+            },
+            {
+              "name": "Creative Display Ads",
+              "link": "/services/paid-media-and-advertising"
+            },
+            {
+              "name": "Local Targeting Strategies",
+              "link": "/services/paid-media-and-advertising"
+            },
+            {
+              "name": "Conversion Tracking",
+              "link": "/services/paid-media-and-advertising"
+            }
+          ]
+        },
+        {
+          "name": "Compelling Content Marketing",
+          "link": "/services/compelling-content-marketing",
+          "icon": "ic:baseline-arrow-drop-down",
+          "childrens": [
+            {
+              "name": "Content Audit",
+              "link": "/services/compelling-content-marketing"
+            },
+            {
+              "name": "Blogs & Articles",
+              "link": "/services/compelling-content-marketing"
+            },
+            {
+              "name": "Social Media Posts",
+              "link": "/services/compelling-content-marketing"
+            },
+            {
+              "name": "Infographics",
+              "link": "/services/compelling-content-marketing"
+            },
+            {
+              "name": "Email Marketing Draft",
+              "link": "/services/compelling-content-marketing"
+            },
+            {
+              "name": "Website Copies",
+              "link": "/services/compelling-content-marketing"
+            },
+            {
+              "name": "Guest Posting",
+              "link": "/services/compelling-content-marketing"
+            },
+            {
+              "name": "Google Business Profile Posts",
+              "link": "/services/compelling-content-marketing"
+            }
+          ]
+        },
+        {
+          "name": "Digital Creative & Logo Design",
+          "link": "/services/digital-creative-and-logo-design",
+          "icon": "ic:baseline-arrow-drop-down",
+          "childrens": [
+            {
+              "name": "Website Graphics",
+              "link": "/services/digital-creative-and-logo-design"
+            },
+            {
+              "name": "Website Logo",
+              "link": "/services/digital-creative-and-logo-design"
+            },
+            {
+              "name": "Digital Broucher",
+              "link": "/services/digital-creative-and-logo-design"
+            },
+            {
+              "name": "Email Marketing Graphics",
+              "link": "/services/digital-creative-and-logo-design"
+            },
+            {
+              "name": "Business card, Letterhead etc.",
+              "link": "/services/digital-creative-and-logo-design"
+            },
+            {
+              "name": "Poster, Banner, Flyer and Signage",
+              "link": "/services/digital-creative-and-logo-design"
+            },
+            {
+              "name": "Social Media Graphics",
+              "link": "/services/digital-creative-and-logo-design"
+            }
+          ]
+        },
+        {
+          "name": "Strategic Social Media Management",
+          "link": "/services/strategic-social-media-management",
+          "icon": "ic:baseline-arrow-drop-down",
+          "childrens": [
+            {
+              "name": "Social Media Optimization",
+              "link": "/services/strategic-social-media-management/social-media-optimization"
+            },
+            {
+              "name": "Social Media Marketing",
+              "link": "/services/strategic-social-media-management/social-media-marketing"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Resources",
+      "link": "#",
+      "icon": "ic:baseline-arrow-drop-down",
+      "submenu_icon": "dashicons:portfolio",
+      "submenu_heading": "overview",
+      "childrens": [
+        {
+          "name": "About us",
+          "link": "/about"
+        },
+        {
+          "name": "Blog",
+          "link": "/blog"
+        }
+      ]
+    },
+
+    {
+      "name": "Case Studies",
+      "link": "/case-studies",
+      "icon": "fa fa-angle-down"
+    },
+    {
+      "name": "Career",
+      "link": "/career"
+    },
+    {
+      "name": "Contact",
+      "link": "/contact"
+    }
+  ]
+}

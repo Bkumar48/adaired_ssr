@@ -1,0 +1,37 @@
+.loading {
+    width: 100vw;
+    height: 100vh;
+    background-color: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+}
+
+.follow {
+    position: absolute;
+    background-color: #f48049;
+    height: 2px;
+    width: 0;
+    left: 0;
+    z-index: 2;
+}
+
+.progressbar {
+    position: absolute;
+    left: 0;
+    background-color: #fff;
+    height: 2px;
+    width: 0;
+    transition: 0.4s ease-out;
+}
+
+.count {
+    position: absolute;
+    font-size: 130px;
+    color: #fff;
+    transform: translateY(-15px);
+    font-weight: 500;
+}
+
